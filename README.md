@@ -6,5 +6,8 @@ The .py file is based on python2.7 version,if you have a python2.7 environment,y
 The .exe file is executable file on windows system.it also need administrator privileges like .py.
 .py+PyInstaller=exe
 
+#File3:googlehost3.py
+based on python3
+
 #Statement
 Copy the contents of the .py file from the internet,Just change the part(year),If a violation of the relevant agreement, please inform me
